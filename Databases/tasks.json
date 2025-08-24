@@ -1,47 +1,97 @@
 [
   {
-    "title": "Pray",
-    "status": "completed",
-    "id": "1"
+    "date": "24-08-2025",
+    "tasks": [
+      {
+        "title": "Pray",
+        "status": "completed",
+        "id": "1"
+      },
+      {
+        "title": "Run",
+        "status": "completed",
+        "id": "2"
+      },
+      {
+        "title": "200 push ups",
+        "status": "completed",
+        "id": "3"
+      },
+      {
+        "title": "cold shower",
+        "status": "completed",
+        "id": "4"
+      },
+      {
+        "title": "Mulk suresi",
+        "status": "uncompleted",
+        "id": "5"
+      },
+      {
+        "title": "10 pages, rules of human psyhology",
+        "status": "uncompleted",
+        "id": "6"
+      },
+      {
+        "title": "Host Backend ",
+        "status": "completed",
+        "id": "7"
+      },
+      {
+        "title": "host frontend ",
+        "status": "completed",
+        "id": "8"
+      },
+      {
+        "title": "make the project daily",
+        "status": "completed",
+        "id": "9"
+      }
+    ]
   },
   {
-    "title": "Run",
-    "status": "completed",
-    "id": "2"
+    "date": "25-08-2025",
+    "tasks": [
+      {
+        "title": "Pray",
+        "status": "uncompleted",
+        "id": "1"
+      },
+      {
+        "title": "Run",
+        "status": "uncompleted",
+        "id": "2"
+      },
+      {
+        "title": "70 push ups",
+        "status": "uncompleted",
+        "id": "3"
+      },
+      {
+        "title": "cold shower",
+        "status": "uncompleted",
+        "id": "4"
+      },
+      {
+        "title": "Mulk suresi",
+        "status": "uncompleted",
+        "id": "5"
+      },
+      {
+        "title": "10 pages, rules of human psyhology",
+        "status": "uncompleted",
+        "id": "6"
+      }
+    ]
   },
   {
-    "title": "200 push ups",
-    "status": "uncompleted",
-    "id": "3"
-  },
-  {
-    "title": "cold shower",
-    "status": "completed",
-    "id": "4"
-  },
-  {
-    "title": "Mulk suresi",
-    "status": "uncompleted",
-    "id": "5"
-  },
-  {
-    "title": "10 pages, rules of human psyhology",
-    "status": "uncompleted",
-    "id": "6"
-  },
-  {
-    "title": "Host Backend ",
-    "status": "uncompleted",
-    "id": "7"
-  },
-  {
-    "title": "host frontend ",
-    "status": "uncompleted",
-    "id": "8"
-  },
-  {
-    "title": "make the project daily",
-    "status": "uncompleted",
-    "id": "9"
+    "date": "18-08-2025",
+    "tasks": [
+      {
+        "title": "Fs",
+        "status": "uncompleted",
+        "id": "1"
+      }
+    ]
   }
 ]
